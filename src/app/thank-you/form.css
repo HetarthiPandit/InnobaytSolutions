@@ -1,0 +1,55 @@
+.text-gradient {
+  color: transparent;
+  text-align: center;
+  margin: auto;
+  font-family: "Raleway";
+  margin-top: 40px;
+  margin-bottom: 40px;
+  letter-spacing: 1px;
+  font-size: 5rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 6rem;
+  background: linear-gradient(180deg, #FFF 36.46%, #896BFF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: '__Inter_aaf875', '__Inter_Fallback_aaf875';
+}
+
+  .wrapper-2{
+    text-align:center;
+    padding: 100px 0;
+  }
+  .wrapper-2 p{
+    margin:0;
+    font-size:1.3em;
+    color:#fafafa;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing:1px;
+    line-height: 1.5;
+  }
+  .go-home{
+    background: linear-gradient(to right, #673ab7 0, #2196f3 100%);
+    border:none;
+    padding: 15px 40px;
+    margin: 30px 0;
+    cursor: pointer;
+    border-radius: 2rem;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: '__Inter_aaf875', '__Inter_Fallback_aaf875';
+  }
+  .go-home:hover{
+    opacity: 0.9;
+  }
+  .go-home a{
+    font-family: 'Raleway', Arial Black;
+    font-size: 1rem;
+    font-weight: 700!important;
+    letter-spacing: 2px;
+    color: #fafafa;
+    font-family: '__Inter_aaf875', '__Inter_Fallback_aaf875';
+  }
+  
+ 
